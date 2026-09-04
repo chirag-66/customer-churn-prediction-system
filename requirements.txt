@@ -8,3 +8,4 @@ joblib==1.5.3
 shap==0.52.0
 matplotlib==3.11.1
 seaborn==0.13.2
+plotly==7.0.0
