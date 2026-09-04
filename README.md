@@ -354,7 +354,7 @@ An end-to-end Machine Learning application that predicts customer churn using XG
 
 ##  Live Demo
 
- [Open the Live Streamlit App](customer-churn-prediction-system∙my-new-branch∙app.py)
+ [Open the Live Streamlit App]([customer-churn-prediction-system∙my-new-branch∙app.py](https://customer-churn-prediction-systemgit-fevbbiupcllqmmwtlvref6.streamlit.app/))
 ## Business Interpretation
 
 The model can help a company identify customers who may be at higher risk of leaving.
