@@ -332,10 +332,6 @@ pip install -r requirements.txt
 
 From the project root:
 
-```bash
-streamlit run app.py
-```
-
 The application will open in your browser.
 
 ---
@@ -352,7 +348,13 @@ The application will open in your browser.
 8. Inspect the SHAP waterfall explanation.
 
 ---
+# Customer Churn Prediction System
 
+An end-to-end Machine Learning application that predicts customer churn using XGBoost and provides model explainability using SHAP.
+
+##  Live Demo
+
+ [Open the Live Streamlit App](customer-churn-prediction-system∙my-new-branch∙app.py)
 ## Business Interpretation
 
 The model can help a company identify customers who may be at higher risk of leaving.
