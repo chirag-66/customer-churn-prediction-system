@@ -10,10 +10,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 import PIL.Image as Image
 
-page_icon = Image.open("C:\\Users\\chira\\OneDrive\\Desktop\\customer-churn-predictor\\Screenshot 2026-09-04 142720.png")
-
 project_root = Path().cwd()
 
+page_icon = Image.open(project_root/"assets"/"logo.png")
 model = joblib.load(project_root/"models"/"churn_model.pkl")
 threshold = joblib.load(project_root/"models"/"threshold.pkl")
 
